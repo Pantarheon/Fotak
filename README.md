@@ -1,1 +1,1 @@
-"# Fotak" 
+# Foťák - an Open Camera
